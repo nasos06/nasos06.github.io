@@ -1,2 +1,2 @@
 # nasos06.github.io
-Homework 0
+Welcome to Homework 0!
